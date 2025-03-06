@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 19 19"
+   height="19"
+   width="19"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="grocery.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="23.055403"
+     inkscape:cx="13.033821"
+     inkscape:cy="8.1759578"
+     inkscape:window-width="2560"
+     inkscape:window-height="1520"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title1">grocery.svg</title>
+  <rect
+     fill="none"
+     x="0"
+     y="0"
+     width="19"
+     height="19"
+     id="rect1" />
+  <circle
+     style="fill:#e68d00;fill-opacity:1;stroke-width:1"
+     id="path2"
+     cx="9.5"
+     cy="9.5"
+     r="8.1108971" />
+  <path
+     fill="#000000"
+     d="m 14.09594,4.2370485 c 0,0 -1.173507,-0.034773 -1.641842,0.4219994 -0.450272,0.4390482 -0.636296,0.7745377 -0.636296,1.6879975 H 3.9679563 L 5.1449389,10.41044 c 0.00296,0.0062 0.00834,0.01205 0.011544,0.01814 0.1978333,0.554759 0.7149724,0.954312 1.3319355,0.977522 0.00253,0.0011 0.011544,0.005 0.011544,0.005 h 5.4859906 v 0.16814 c 0,0 6.6e-4,0.254189 -0.16814,0.591788 -0.168799,0.337599 -0.25287,0.506069 -0.928069,0.506069 H 5.4037432 c -0.8439987,0 -0.8439987,1.265998 0,1.265998 h 1.0121392 0.08407 4.1359226 0.08407 0.08572 c 1.012799,0 1.771079,-0.591129 2.024279,-1.181928 0.253199,-0.5908 0.253859,-1.096209 0.253859,-1.096209 V 11.41104 6.3470454 c 0,-0.4419177 0.192954,-0.8439987 0.59014,-0.8439987 h 0.464858 c 0.349585,0 0.633,-0.2834148 0.633,-0.632999 0,-0.3495844 -0.283415,-0.6329992 -0.633,-0.6329992 z m -3.375995,9.7059875 c -0.5064,0 -0.8439983,0.337599 -0.8439983,0.843998 0,0.5064 0.3375983,0.844 0.8439983,0.844 0.506399,0 0.843999,-0.3376 0.843999,-0.844 0,-0.506399 -0.3376,-0.843998 -0.843999,-0.843998 z m -4.2199924,0 c -0.5063992,0 -0.8439988,0.337599 -0.8439988,0.843998 0,0.5064 0.3375994,0.844 0.8439988,0.844 0.5063992,0 0.8439987,-0.3376 0.8439987,-0.844 0,-0.506399 -0.3375995,-0.843998 -0.8439987,-0.843998 z"
+     id="path1"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.843998" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>grocery.svg</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
